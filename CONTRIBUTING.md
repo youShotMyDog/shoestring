@@ -7,10 +7,10 @@ So you want to help out with development?  **That's Fantastic**.  Here is how yo
 Updating documentation is important, and the people using the product don't tend to read the documenation so your comments are very valuable! 
 
 1. We recommend adding issues in the documentation first. This is great way to introduce yourself to the project team.
-2. And we love it when people update the documentation when they resolve thier issues.
+2. And we love it when people update the documentation when they resolve their issues.
 3. Next we recommend detail bug reports issues
 4. Bug fixes are the next level up :)
-5. Last is grabbing features from the issue queu and fixing them
+5. Last is grabbing features from the issue queue and fixing them
 
 ## Overview of the contribution process
 
